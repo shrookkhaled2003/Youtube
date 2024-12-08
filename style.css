@@ -30,6 +30,10 @@ header{
     width: 46%;
     padding-left: 16px;
 }
+ #menu-btn{
+        border: none; 
+        background-color: white;
+    }
 .mid-section{
     display: flex;
     align-items: center;
